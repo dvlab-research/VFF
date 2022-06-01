@@ -3,13 +3,13 @@
 
 Yanwei Li, Xiaojuan Qi, Yukang Chen, Liwei Wang, Zeming Li, Jian Sun, Jiaya Jia
 
-[[`arXiv`]()] [[`BibTeX`](#CitingVFF)]
+[[`arXiv`](https://arxiv.org/pdf/2205.15938.pdf)] [[`BibTeX`](#CitingVFF)]
 
 <div align="center">
   <img src="docs/vff.png"/>
 </div><br/>
 
-This project provides an implementation for the CVPR 2022 paper "[Voxel Field Fusion for 3D Object Detection]()" based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet). VFF aims to maintain cross-modality consistency by representing and Image fusing augmented image features as a ray in the voxel field.
+This project provides an implementation for the CVPR 2022 paper "[Voxel Field Fusion for 3D Object Detection](https://arxiv.org/pdf/2205.15938.pdf)" based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet). VFF aims to maintain cross-modality consistency by representing and Image fusing augmented image features as a ray in the voxel field.
 
 ## Installation
 This project is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), which can be constructed as follows.
